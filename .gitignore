@@ -1,0 +1,8 @@
+#local environment
+hpvenv/
+
+#datasets
+data/
+
+#notebook checkpoints
+.ipynb_checkpoints/
