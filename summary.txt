@@ -1,0 +1,7 @@
+Insights & Summary
+
+The analysis shows that area, number of bathrooms, and number of bedrooms are among the most influential factors affecting house prices. Larger houses with more rooms generally have higher prices, indicating that property size plays a major role in valuation. Features such as air conditioning, preferred location, and parking availability also contribute positively to house prices.
+
+The Linear Regression model achieved better performance compared to Random Forest, suggesting that the relationship between the selected property features and price is mostly linear in this dataset. The model provides a reasonable estimate of house prices, but predictions may vary for properties with unique characteristics not captured by the available features.
+
+One surprising observation was that some amenities had a smaller impact on price compared to basic property characteristics like area and room count. A real estate business can use these insights to focus on improving high-impact features and build more data-driven pricing strategies.
